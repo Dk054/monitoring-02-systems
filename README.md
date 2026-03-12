@@ -64,7 +64,7 @@
 
 Ошибка кроется в наборе данных для знаменателя или числителя.
 
-$$\text{SLA} = \frac{\text{summ\_2xx\_requests}}{\text{summ\_all\_requests}}$$
+`$$\text{SLA} = \frac{\text{summ\_2xx\_requests}}{\text{summ\_all\_requests}}$$`
 
 **Если 4xx=0 и 5xx=0, то $\text{SLA}$ всегда равно 100%.**
 
